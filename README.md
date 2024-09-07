@@ -1,5 +1,5 @@
 <p align="center">
-  <h3>the history of <b><i>noyn</i></b></h3>
+  <h3 align="center">the history of <b><i>noyn</i></b></h3>
   <h5>mostly learnt programming n stuff by myself cuz im cool and i love to tinker with syntax highlighting</h5>
   <br>
 </p>
