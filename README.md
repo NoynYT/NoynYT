@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**NoynYT/NoynYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <h3>the history of <b><i>noyn</i></b></h3>
+  <h5>mostly learnt programming n stuff by myself cuz im cool and i love to tinker with syntax highlighting</h5>
+  <br><br><br>
+</p>
+<p align="center">
+  <h3>Programming Languages I Use (and maybe some i was dumb enough to learn)</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,c,cs,cpp,arduino,java,html,css,lua,powershell,py,ruby,swift,php>
+  </a>
+</p>
