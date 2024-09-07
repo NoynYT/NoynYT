@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <h3 align="center">Programming Languages I Use (and maybe some i was dumb enough to learn)</h3>
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,c,cs,cpp,arduino,java,html,css,lua,powershell,py,ruby,swift,php"/>
   </a>
 </p>
