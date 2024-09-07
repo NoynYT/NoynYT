@@ -6,6 +6,6 @@
 <p align="center">
   <h3>Programming Languages I Use (and maybe some i was dumb enough to learn)</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,c,cs,cpp,arduino,java,html,css,lua,py,ruby,swift,php>
+    <img src="https://skillicons.dev/icons?i=js,ts,c,cs,cpp,arduino,java,html,css,lua,powershell,py,ruby,swift,php/>
   </a>
 </p>
