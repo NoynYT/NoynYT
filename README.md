@@ -17,4 +17,9 @@
   <img src="https://skillicons.dev/icons?i=aws,gcp,replit"/>
 </div>
 
-<br><br><h7 align="center" style="text-align: center;">lazily compiled by <a href="https://youtube.com/@noynyt">noyn</a></h7><h7 align="center" style="text-align: center;">credits to <a href="https://skillicons.dev">skillsicon.dev</a> for icons! (yall are very good at making them)</h7>
+<div align="center" style="text-align: center;">
+<br><br>
+<h7 align="center" style="text-align: center;">lazily compiled by <a href="https://youtube.com/@noynyt">noyn</a>
+<br>
+</h7><h7 align="center" style="text-align: center;">credits to <a href="https://skillicons.dev">skillsicon.dev</a> for icons! (yall are very good at making them)</h7>
+</div>
