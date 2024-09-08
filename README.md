@@ -11,7 +11,8 @@
   <img src="https://skillicons.dev/icons?i=js,ts,c,cs,cpp,java,html,css,lua,powershell,py,ruby,swift,php,dart"/>
   <br><br>
   <h3>softwares i use</h3>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,blender,cloudflare,docker,dotnet,eclipse,figma,flask,firebase,git,github,mongodb,pytorch,qt,tensorflow,robloxstudio,stackoverflow,unity,unreal,vim"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,blender,cloudflare,docker,dotnet,eclipse,figma,flask,firebase,git,github,mongodb,pytorch"/>
+  <img src="https://skillicons.dev/icons?i=qt,tensorflow,robloxstudio,stackoverflow,unity,unreal,vim">
   <br><br>
   <h3>services i use</h3>
   <img src="https://skillicons.dev/icons?i=aws,gcp,replit"/>
