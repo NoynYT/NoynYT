@@ -8,7 +8,7 @@
 </div> -->
 <div align="center" style="text-align: center;">
   <h3 align="center">programming languages i know</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,c,cs,cpp,arduino,java,html,css,lua,powershell,py,ruby,swift,php,dart"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cs,cpp,java,html,css,lua,powershell,py,ruby,swift,php,dart"/>
   <br><br>
   <h3>softwares i use</h3>
   <img src="https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,blender,cloudflare,docker,dotnet,eclipse,figma,flask,firebase,git,github,mongodb,pytorch,qt,tensorflow,robloxstudio,stackoverflow,unity,unreal,vim"/>
